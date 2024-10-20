@@ -1,16 +1,26 @@
 ## Image Recognition Project using TensorFLow and Keras ##
 
 Images of : 
-aeroplane
-automobile
-bird
-cat
-deer
-dog
-frog
-horse
-ship
-truck
+
+1.aeroplane
+
+2.automobile
+
+3.bird
+
+4.cat
+
+5.deer
+
+6.dog
+
+7.frog
+
+8.horse
+
+9.ship
+
+10.truck
 
 ### how to run:
 1] run model.py file completely first.
